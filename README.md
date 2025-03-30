@@ -40,18 +40,13 @@ VanaRaskha is a Flask-based server application designed to calculate and analyze
 ## Usage
 1. Start the Flask server:
    ```bash
-   flask run
+   python carbon_app.py
    ```
 2. Open your browser and navigate to:
    ```
    http://127.0.0.1:5000
    ```
 3. Use the application to calculate and analyze carbon footprints.
-
-## API Endpoints
-- `GET /api/footprint`: Retrieve carbon footprint data.
-- `POST /api/footprint`: Submit data for carbon footprint calculation.
-- `...` (Add more endpoints as needed)
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
